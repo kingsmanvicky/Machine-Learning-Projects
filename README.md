@@ -1,2 +1,5 @@
 # Machine-Learning-Projects
-This Repo has projects that involve machine learning algortims 
+This Repository has projects that involve machine learning algortims 
+
+The Projects are:
+1) Film Revenue Prediction using Linear Regression
